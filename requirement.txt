@@ -1,0 +1,11 @@
+pytest
+playwright
+pytest-xdist
+pytest-html
+allure-pytest
+pytest-rerunfailures
+openpyxl
+Faker
+python-slugify
+
+#pytest==8.3.2 ---- incase of specific version

@@ -1,0 +1,8 @@
+[OK] Starting browser: chromium
+[OK] Headless mode: False (headed=True)
+[INFO] Navigating to: https://naveenautomationlabs.com/opencart
+[TRACE] Tracing enabled - capturing screenshots and actions
+count of products: <Locator frame=<Frame name= url='https://naveenautomationlabs.com/opencart/index.php?route=product/search&search=MacBook'> selector='h4 > a'>
+[RESULT] Test 'test_product_search' result: [PASS]
+[SAVE] Trace saved: reports/traces/test_product_search_trace.zip
+[CLEANUP] Closing browser context and stopping Playwright...
